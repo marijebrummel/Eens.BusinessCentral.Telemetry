@@ -16,6 +16,10 @@
   "application": "22.0.0.0",
   "idRanges": [
     {
+      "from": 92590,
+      "to": 92599
+    },
+    {
       "from": 92745,
       "to": 92749
     }
@@ -27,5 +31,6 @@
     "allowDebugging": true,
     "allowDownloadingSource": false,
     "includeSourceInSymbolFile": false
-  }
+  },
+  "runtime": "13.0"
 }
